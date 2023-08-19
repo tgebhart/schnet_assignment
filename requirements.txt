@@ -1,0 +1,13 @@
+prody
+pandas
+numpy
+torch
+torch_geometric
+pyg_lib
+torch_scatter
+torch_sparse
+torch_cluster
+torch_spline_conv
+esm
+jupyter
+matplotlib
